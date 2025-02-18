@@ -39,5 +39,5 @@ Este projeto utiliza a placa de desenvolvimento **BitDogLab** para controlar LED
 - O **botão A** ativará/desativará os LEDs PWM.
 
 ## Link do Vídeo de Apresentação
-[https://youtu.be/KQiMeRSd2sE?si=9_LGcoKJ7q8otrc8]
+https://youtu.be/KQiMeRSd2sE?si=9_LGcoKJ7q8otrc8
 
